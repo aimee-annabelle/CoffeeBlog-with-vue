@@ -1,0 +1,32 @@
+{
+  "name": "coffeeblog-with-vue",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2",
+    "vite": "^2.3.4"
+  },
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimee-annabelle/CoffeeBlog_with_vue.git"
+  },
+  "author": "Annabelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimee-annabelle/CoffeeBlog_with_vue/issues"
+  },
+  "homepage": "https://github.com/aimee-annabelle/CoffeeBlog_with_vue#readme",
+  "description": ""
+}
